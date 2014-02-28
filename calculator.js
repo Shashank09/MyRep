@@ -31,6 +31,8 @@ function calculations(elem) {
 			document.getElementById("queryBox").innerHTML = '' ;
 
 			document.getElementById("queryBox").style.height = '0px' ;
+			
+			document.getElementById("doneWith").style.top = "345px" ; 
 
 		}
 
